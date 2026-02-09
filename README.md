@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" width="420" />
+  <img src="https://github.com/DebankurPaul/DebankurPaul/blob/main/ghostedvpn-hacker-cat.gif" width="420" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Debankur Paul</h1>
