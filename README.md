@@ -1,8 +1,22 @@
-### Hi , I'm Debankur paul
-## Aspiring AI , ML Engineer
+<h1 align="center">Hey 👋, I'm Debankur Paul</h1>
 
-# 💫 About Me:
-- 🎓Btech CSE student with strong interest in systems programming & applied AI<br><br> - Building Sentinel-G - an AI-powered crisis intelligence system(multimodal AI + decision support)<br><br> - Systems-level design & low-level programming<br><br> - Backend architecture and data systems
+<h3 align="center">
+  Aspiring AI / ML Engineer | CSE Student
+</h3>
+
+<p align="center">
+  <i>Building real systems. Learning by doing.</i>
+</p>
+
+
+## 🐣 About Me
+
+- 🎓 **B.Tech CSE student** with strong interest in **systems programming & applied AI**
+- 🚨 Building **Sentinel-G** — an AI-powered crisis intelligence system  
+  *(multimodal AI + decision support)*
+- ⚙️ Focused on **systems-level design & low-level programming**
+- 🧠 Interested in **backend architecture and data systems**
+
 
 <h2>🤝 Connect With Me</h2>
 
@@ -37,7 +51,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 <p>Render</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=DebankurPaul&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
