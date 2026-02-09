@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="420" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Debankur Paul</h1>
 
 <h3 align="center">
