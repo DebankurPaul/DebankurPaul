@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Sentinel-g](https://github.com/DebankurPaul/Sentinel-g)
 
-- 📫 How to reach me **debankurpaul618@gmail.com,https://www.linkedin.com/in/debankur-paul-6267b232b/**
+- 📫 How to reach me **debankurpaul618@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
