@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="420" />
+  <img src="https://tenor.com/fnfkmcVpV2K.gif" width="420" />
 </p>
 
 <h1 align="center">Hey 👋, I'm Debankur Paul</h1>
