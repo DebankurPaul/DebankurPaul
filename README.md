@@ -2,7 +2,7 @@
 ## Aspiring AI , ML Engineer
 
 # 💫 About Me:
-- 🎓Btech CSE student with strong interest in systems programming & applied AI<br><br>- Building Sentinel-G - an AI-powered crisis intelligence system(multimodal AI + decision support)<br><br>- Systems-level design & low-level programming<br><br>- Backend architecture and data systems
+- 🎓Btech CSE student with strong interest in systems programming & applied AI<br><br> - Building Sentinel-G - an AI-powered crisis intelligence system(multimodal AI + decision support)<br><br> - Systems-level design & low-level programming<br><br> - Backend architecture and data systems
 
 <h2>🤝 Connect With Me</h2>
 
