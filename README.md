@@ -39,8 +39,8 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,ts" />
 
 <h3>🌐 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html,react" />
+
 
 <h3>⚙️ Backend & APIs</h3>
 <img src="https://skillicons.dev/icons?i=fastapi,firebase" />
