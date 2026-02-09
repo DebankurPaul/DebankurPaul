@@ -40,6 +40,7 @@
 
 <h3>🌐 Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=react" />
 
 <h3>⚙️ Backend & APIs</h3>
 <img src="https://skillicons.dev/icons?i=fastapi,firebase" />
