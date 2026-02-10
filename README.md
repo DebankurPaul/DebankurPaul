@@ -16,6 +16,7 @@
 ## 🐣 About Me
 
 - 🎓 **B.Tech CSE student** with strong interest in **systems programming & applied AI**
+- **Building** applications
 - ⚙️ Focused on **systems-level design & low-level programming**
 - 🧠 Interested in **backend architecture and data systems**
 
